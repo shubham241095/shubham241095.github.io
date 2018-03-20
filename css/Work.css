@@ -1,0 +1,37 @@
+body{
+     width: 100%;
+}
+ #main h1{
+     width:600px;
+     margin-left:auto;
+     margin-right:auto;
+     position:relative;
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+ #main ul{
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+     width:600px;
+     margin-left:auto;
+     margin-right:auto;
+     font-size:20px;
+}
+ #a{
+     font-size:20px;
+     border-bottom: 4px dotted blue;
+}
+ #main li{
+     list-style:circle;
+}
+ #main a{
+     color:blue;
+     margin-left: auto;
+     margin-right: auto;
+     width:600px;
+     font-size: 17px;
+     margin-left:40px;
+}
+ #new{
+     float:right;
+     color:blue;
+     text-decoration: underline;
+}
